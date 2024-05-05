@@ -1,0 +1,1 @@
+A heavily commented program to explain a little bit about how strings work in Odin and how to convert and use c-like strings.<br>
